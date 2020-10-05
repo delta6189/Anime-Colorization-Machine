@@ -19,6 +19,7 @@ Dataset
 ------
 
   Taebum Kim, "Anime Sketch Colorization Pair", https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
+  
   68K illustrations crawled from web
   
     
