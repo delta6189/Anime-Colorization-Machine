@@ -13,6 +13,8 @@ Prerequisites
   
   `openCV2`
   
+  `opencv_transforms` (For training)
+  
   `matplotlib` (For training)
   
 Results
