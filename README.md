@@ -23,10 +23,13 @@ Results
 
 1. Grayscale to color
 
+  The grayscale to color model still in training. Sorry!
+
 2. Sketch to color
-![ex_screenshot](./example/7.PNG)
-![ex_screenshot](./example/6.PNG)
-![ex_screenshot](./example/3.png)
+
+  ![ex_screenshot](./example/7.PNG)
+  ![ex_screenshot](./example/6.PNG)
+  ![ex_screenshot](./example/3.png)
     
 Dataset
 ------
@@ -39,7 +42,8 @@ Dataset
 Usage
 ------
 
-  1. Download model weight from here() and unzip on `src/model/checkpoint`
+  1. Download model weight from [here](https://drive.google.com/file/d/1ihPLm4mhQYYgSzUdP5-2bfLr0_mhL_ie/view?usp=sharing) and unzip on `src/model/checkpoint`
+     (The grayscale to color model still in training. Sorry!)
   2. `python main.py`
   3. Select `Grayscale` or `Sketch` mode
   4. Open image and draw
