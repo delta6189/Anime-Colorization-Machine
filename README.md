@@ -14,6 +14,16 @@ Prerequisites
   `openCV2`
   
   `matplotlib` (For training)
+  
+Results
+-----
+
+1. Grayscale to color
+
+2. Sketch to color
+![ex_screenshot](./example/3.png)
+![ex_screenshot](./example/6.png)
+![ex_screenshot](./example/7.png)
     
 Dataset
 ------
