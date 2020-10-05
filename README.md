@@ -26,7 +26,7 @@ Dataset
 Usage
 ------
 
-  1. Download model weight from here() and unzip on `src/model/checkpoint'
+  1. Download model weight from here() and unzip on `src/model/checkpoint`
   2. `python main.py`
   3. Select `Grayscale` or `Sketch` mode
   4. Open image and draw
