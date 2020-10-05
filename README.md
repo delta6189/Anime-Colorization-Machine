@@ -18,9 +18,9 @@ Prerequisites
 Dataset
 ------
 
-  Taebum Kim, "Anime Sketch Colorization Pair", https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
+  1. Taebum Kim, "Anime Sketch Colorization Pair", https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair
   
-  68K illustrations crawled from web
+  2. 68K illustrations crawled from web
   
     
 Usage
