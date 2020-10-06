@@ -30,7 +30,7 @@ Results
 2. Sketch to color
 
   ![ex_screenshot](./example/7.PNG)
-  ![ex_screenshot](./example/8.PNG)
+  ![ex_screenshot](./example/8.png)
   ![ex_screenshot](./example/9.png)
   ![ex_screenshot](./example/10.png)
   ![ex_screenshot](./example/11.png)
