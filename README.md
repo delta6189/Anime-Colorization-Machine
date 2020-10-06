@@ -13,6 +13,8 @@ Prerequisites
   
   `openCV2`
   
+  `PyQT5`
+  
   `opencv_transforms` (For training) (You can simply install this by `pip install opencv_transforms`)
   
   `matplotlib` (For training)
