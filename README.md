@@ -23,18 +23,20 @@ Results
 -----
 [Demo video](https://youtu.be/r9HG7dkug4k)
 
-1. Grayscale to color
 
-  The grayscale to color model still in training. Sorry!
-
-2. Sketch to color
-
-  ![ex_screenshot](./example/7.PNG)
-  ![ex_screenshot](./example/8.png)
-  ![ex_screenshot](./example/9.png)
-  ![ex_screenshot](./example/10.png)
-  ![ex_screenshot](./example/11.png)
-    
+  ![ex_screenshot](./example/7_1.PNG)
+  ![ex_screenshot](./example/7_2.PNG)
+  ![ex_screenshot](./example/7_3.PNG)
+  ![ex_screenshot](./example/8_1.png)
+  ![ex_screenshot](./example/8_2.png)
+  ![ex_screenshot](./example/8_3.png)
+  ![ex_screenshot](./example/10_1.png)
+  ![ex_screenshot](./example/10_2.png)
+  ![ex_screenshot](./example/10_3.png)
+  ![ex_screenshot](./example/11_1.png)
+  ![ex_screenshot](./example/11_2.png)
+  ![ex_screenshot](./example/11_3.png)  
+  
 Dataset
 ------
 
@@ -49,8 +51,6 @@ Usage
   1. Download model weight from [here](https://drive.google.com/file/d/1ihPLm4mhQYYgSzUdP5-2bfLr0_mhL_ie/view?usp=sharing) and unzip on `src/model/checkpoint`
      (The grayscale to color model still in training. Sorry!)
   2. `python main.py`
-  3. Select `Grayscale` or `Sketch` mode
-  4. Open image and draw
   
 Training details
 ------
