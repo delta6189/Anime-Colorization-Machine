@@ -1,6 +1,6 @@
 # Anime-Colorization-Machine
 
-User-interactive anime colorization
+User-interactive colorization of anime sketch image
 
 Prerequisites
 ------
