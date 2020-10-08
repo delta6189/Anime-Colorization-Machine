@@ -49,7 +49,7 @@ Usage
 ------
 
   1. Download model weight from [here](https://drive.google.com/file/d/1dQgcjruRg-aoX_7eem-b1KCIYNeAp3u9/view?usp=sharing) and unzip on `src/model/checkpoint`
-     (The grayscale to color model still in training. Sorry!)
+
   2. `python main.py`
   
 Training details
