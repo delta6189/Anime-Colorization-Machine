@@ -52,6 +52,12 @@ Usage
 
   2. `python main.py`
   
+  3. Load an image. The image will be automatically converted to sketch-style image.
+  
+  4. Draw scribbles and press 'colorize' button.
+  
+  5. Save the colorized image.
+  
 Training details
 ------
 
